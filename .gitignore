@@ -1,4 +1,13 @@
-GBMmaf.txt
 .ipynb_checkpoints
+.vscode
+
+# MAF files
+GBMmaf.txt
+BLCAmaf.txt
+
+# Kernel files
 knnGlap_HN90.csv
 kernel_HN90.csv
+
+# Data
+GDCdata
